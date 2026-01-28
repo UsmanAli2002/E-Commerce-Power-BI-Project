@@ -1,4 +1,4 @@
-# E-Commerce-Power-BI-Project
+# E-Commerce-Power-BI- Dashboard-Project
 o analyze sales data from an online e-commerce store and create an interactive Power BI dashboard highlighting key metrics, trends, and top-performing products and cities.
 
 ## Project Overview
