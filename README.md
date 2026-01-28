@@ -11,8 +11,7 @@ This project analyzes sales data from an online e-commerce store and creates an 
 <img width="1318" height="752" alt="image" src="https://github.com/user-attachments/assets/9ce6b88f-1acc-4d90-8d8f-78fa3e8da2ea" />
 
 ## Dataset
-- **Source:** Online e-commerce store
-- **Rows:** ~150
+- **Source:** My own Online E-Commerce Store Zamanestore.com
 - **Columns used:**
   - `Order_ID`
   - `Order_Date` (date only)
